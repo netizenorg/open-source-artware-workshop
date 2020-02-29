@@ -129,7 +129,7 @@ creates a "snapshot" of the present state of the repo, includes a message that e
 - `git push origin master`
 push your local changes to your upstream public repository, in this case your specifically pushing whichever branch your currently on locally (you can check which branch your own by `git branch`) to your master branch on github.
 
-**Check out the Atom "[fligth manual](https://flight-manual.atom.io/using-atom/sections/github-package/)" for instrutions on how to use the Git/GitHub features integrated into the code editor itself**
+**Check out the Atom "[flight manual](https://flight-manual.atom.io/using-atom/sections/github-package/)" for instrutions on how to use the Git/GitHub features integrated into the code editor itself**
 
 that’s just the tip of the iceberg, we recommend spending 15 mins to go through the [try.github.io](https://try.github.io/levels/1/challenges/1) interactive tutorial and there’s lots more beyond that to learn along the way. Check out github’s [help](https://help.github.com/) page as well as their [guides](https://guides.github.com/) for more info.
 
